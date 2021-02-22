@@ -2,7 +2,7 @@
 
 ## About the program
 
-Small is a shell written in C. It implements a small subset of featuers of other well-known shells, such as bash.
+Smallsh is a shell written in C. It implements a small subset of featuers of other well-known shells, such as bash.
 
 The program has the ability to do the following
 
