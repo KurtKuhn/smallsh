@@ -21,8 +21,12 @@ The program has the ability to do the following
 
 ## How to compile the program:
 
-'''gcc --std=gnu99 -o smallsh smallsh.c'''
+'''
+gcc --std=gnu99 -o smallsh smallsh.c
+'''
 
 ## How to run the program after compiling:
   
-'''./smallsh'''
+'''
+./smallsh
+'''
